@@ -130,11 +130,6 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
           "_anchor": "header1-1",
           "_params": {
             "showTitle": true,
@@ -157,7 +152,12 @@
           },
           "title": "Cumberland Baptist Church",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/jumbotron.jpg&quot;);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"8\">Cumberland Baptist Church</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"9\"></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#extFeatures9-3\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  font-size: 60px;\n}\n",
+          "_customTemplate": true
         },
         {
           "alias": "mobirise3-blocks/components",
